@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="ico">
+    <file>D:/Icons/o_collection/o_collection_png/office/32x32/astrologer.png</file>
+    <file>D:/Icons/o_collection/o_collection_png/office/32x32/add.png</file>
+    <file>D:/Icons/o_collection/o_collection_png/office/32x32/airbrush.png</file>
+    <file>D:/Icons/o_collection/o_collection_png/office/32x32/alarm.png</file>
+    <file>D:/Icons/o_collection/o_collection_png/office/32x32/apple.png</file>
+  </qresource>
+</RCC>
