@@ -11,7 +11,7 @@ Un exemple de solutions aux exercices du fichier PDF
 Un ensemble d'exemples mettant en oeure Streamlit (Folium, Plotly, Pydeck, ...).
 
 ## PySide
-A venir
+Quelques exemples de créaliont de fenêtre à l'aide de PySide
 
 ## Thread et IPC
 A venir
