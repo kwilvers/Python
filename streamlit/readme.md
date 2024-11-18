@@ -1,6 +1,7 @@
-#Streamlit Sample
+# Streamlit Sample
 
 1. 🦁Demo : Démo simple Taxanomie animale
+   ![image](https://github.com/user-attachments/assets/b2cb0c06-3d0c-4bec-8980-04c92eec79ae)
 1. 📈exemple 1 : Vaccin covid 1 
 1. 🌍Exemple 2 : Vaccin covid 2
 1. 👹Exemple 3 :
